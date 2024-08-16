@@ -1,0 +1,203 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Appl\\source\\misc\\AspNetCore.Docs\\aspnetcore\\tutorials\\grpc\\grpc-start\\sample\\sample8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3EF825EA-C348-47E6-AD0B-B0D4B9DFBA47}|GrpcGreeter\\GrpcGreeter.csproj|c:\\appl\\source\\misc\\aspnetcore.docs\\aspnetcore\\tutorials\\grpc\\grpc-start\\sample\\sample8\\grpcgreeter\\services\\greeterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EF825EA-C348-47E6-AD0B-B0D4B9DFBA47}|GrpcGreeter\\GrpcGreeter.csproj|solutionrelative:grpcgreeter\\services\\greeterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EF825EA-C348-47E6-AD0B-B0D4B9DFBA47}|GrpcGreeter\\GrpcGreeter.csproj|c:\\appl\\source\\misc\\aspnetcore.docs\\aspnetcore\\tutorials\\grpc\\grpc-start\\sample\\sample8\\grpcgreeter\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3EF825EA-C348-47E6-AD0B-B0D4B9DFBA47}|GrpcGreeter\\GrpcGreeter.csproj|solutionrelative:grpcgreeter\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EF825EA-C348-47E6-AD0B-B0D4B9DFBA47}|GrpcGreeter\\GrpcGreeter.csproj|c:\\appl\\source\\misc\\aspnetcore.docs\\aspnetcore\\tutorials\\grpc\\grpc-start\\sample\\sample8\\grpcgreeter\\protos\\greet.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{3EF825EA-C348-47E6-AD0B-B0D4B9DFBA47}|GrpcGreeter\\GrpcGreeter.csproj|solutionrelative:grpcgreeter\\protos\\greet.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EF825EA-C348-47E6-AD0B-B0D4B9DFBA47}|GrpcGreeter\\GrpcGreeter.csproj|c:\\appl\\source\\misc\\aspnetcore.docs\\aspnetcore\\tutorials\\grpc\\grpc-start\\sample\\sample8\\grpcgreeter\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3EF825EA-C348-47E6-AD0B-B0D4B9DFBA47}|GrpcGreeter\\GrpcGreeter.csproj|solutionrelative:grpcgreeter\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EF825EA-C348-47E6-AD0B-B0D4B9DFBA47}|GrpcGreeter\\GrpcGreeter.csproj|c:\\appl\\source\\misc\\aspnetcore.docs\\aspnetcore\\tutorials\\grpc\\grpc-start\\sample\\sample8\\grpcgreeter\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3EF825EA-C348-47E6-AD0B-B0D4B9DFBA47}|GrpcGreeter\\GrpcGreeter.csproj|solutionrelative:grpcgreeter\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EF825EA-C348-47E6-AD0B-B0D4B9DFBA47}|GrpcGreeter\\GrpcGreeter.csproj|c:\\appl\\source\\misc\\aspnetcore.docs\\aspnetcore\\tutorials\\grpc\\grpc-start\\sample\\sample8\\grpcgreeter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EF825EA-C348-47E6-AD0B-B0D4B9DFBA47}|GrpcGreeter\\GrpcGreeter.csproj|solutionrelative:grpcgreeter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1112049650:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Appl\\source\\misc\\AspNetCore.Docs\\aspnetcore\\tutorials\\grpc\\grpc-start\\sample\\sample8\\GrpcGreeter\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "GrpcGreeter\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Appl\\source\\misc\\AspNetCore.Docs\\aspnetcore\\tutorials\\grpc\\grpc-start\\sample\\sample8\\GrpcGreeter\\Properties\\launchSettings.json",
+              "RelativeToolTip": "GrpcGreeter\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-16T13:05:18.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "greet.proto",
+              "DocumentMoniker": "C:\\Appl\\source\\misc\\AspNetCore.Docs\\aspnetcore\\tutorials\\grpc\\grpc-start\\sample\\sample8\\GrpcGreeter\\Protos\\greet.proto",
+              "RelativeDocumentMoniker": "GrpcGreeter\\Protos\\greet.proto",
+              "ToolTip": "C:\\Appl\\source\\misc\\AspNetCore.Docs\\aspnetcore\\tutorials\\grpc\\grpc-start\\sample\\sample8\\GrpcGreeter\\Protos\\greet.proto",
+              "RelativeToolTip": "GrpcGreeter\\Protos\\greet.proto",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
+              "WhenOpened": "2024-08-16T13:05:13.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GreeterService.cs",
+              "DocumentMoniker": "C:\\Appl\\source\\misc\\AspNetCore.Docs\\aspnetcore\\tutorials\\grpc\\grpc-start\\sample\\sample8\\GrpcGreeter\\Services\\GreeterService.cs",
+              "RelativeDocumentMoniker": "GrpcGreeter\\Services\\GreeterService.cs",
+              "ToolTip": "C:\\Appl\\source\\misc\\AspNetCore.Docs\\aspnetcore\\tutorials\\grpc\\grpc-start\\sample\\sample8\\GrpcGreeter\\Services\\GreeterService.cs",
+              "RelativeToolTip": "GrpcGreeter\\Services\\GreeterService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T13:05:00.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Appl\\source\\misc\\AspNetCore.Docs\\aspnetcore\\tutorials\\grpc\\grpc-start\\sample\\sample8\\GrpcGreeter\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "GrpcGreeter\\appsettings.Development.json",
+              "ToolTip": "C:\\Appl\\source\\misc\\AspNetCore.Docs\\aspnetcore\\tutorials\\grpc\\grpc-start\\sample\\sample8\\GrpcGreeter\\appsettings.Development.json",
+              "RelativeToolTip": "GrpcGreeter\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-16T13:04:57.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Appl\\source\\misc\\AspNetCore.Docs\\aspnetcore\\tutorials\\grpc\\grpc-start\\sample\\sample8\\GrpcGreeter\\appsettings.json",
+              "RelativeDocumentMoniker": "GrpcGreeter\\appsettings.json",
+              "ToolTip": "C:\\Appl\\source\\misc\\AspNetCore.Docs\\aspnetcore\\tutorials\\grpc\\grpc-start\\sample\\sample8\\GrpcGreeter\\appsettings.json",
+              "RelativeToolTip": "GrpcGreeter\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-16T13:04:55.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Appl\\source\\misc\\AspNetCore.Docs\\aspnetcore\\tutorials\\grpc\\grpc-start\\sample\\sample8\\GrpcGreeter\\Program.cs",
+              "RelativeDocumentMoniker": "GrpcGreeter\\Program.cs",
+              "ToolTip": "C:\\Appl\\source\\misc\\AspNetCore.Docs\\aspnetcore\\tutorials\\grpc\\grpc-start\\sample\\sample8\\GrpcGreeter\\Program.cs",
+              "RelativeToolTip": "GrpcGreeter\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T13:04:49.13Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1395,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1461,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1395,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
