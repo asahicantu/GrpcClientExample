@@ -6,6 +6,9 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GrpcGreeter", "GrpcGreeter\GrpcGreeter.csproj", "{3EF825EA-C348-47E6-AD0B-B0D4B9DFBA47}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GrpcGreeterClient", "GrpcGreeterClient\GrpcGreeterClient.csproj", "{AF7C910B-5F30-463C-9FEF-9E288630759E}"
+	ProjectSection(ProjectDependencies) = postProject
+		{3EF825EA-C348-47E6-AD0B-B0D4B9DFBA47} = {3EF825EA-C348-47E6-AD0B-B0D4B9DFBA47}
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
